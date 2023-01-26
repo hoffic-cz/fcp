@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+                "appID": "UGH733BZK9.com.fixturecalendar.app",
+                "paths": [ "/forget_password/*", "/user/email_verify/*"]
+            }]
+    }
+}

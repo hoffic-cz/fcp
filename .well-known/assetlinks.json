@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.fixturecalendar.app",
+      "sha256_cert_fingerprints": [
+        "7c:b8:83:4b:8e:a6:e0:cc:a3:cf:aa:09:5f:f7:c2:de:fa:ee:b1:d7:3d:6e:1f:44:29:ab:dd:65:7a:87:42:f4",
+        "96:40:e3:f3:3f:91:84:4f:fe:13:d3:14:8b:71:16:52:63:b4:d3:95:05:2f:30:0e:d8:34:46:49:9c:29:89:3a",
+        "F5:78:50:DE:7E:E6:43:96:90:54:A8:BC:91:A2:9D:38:70:11:2B:08:11:E4:24:16:7B:B7:10:21:D8:0E:29:DF"
+      ]
+    }
+  }
+]
